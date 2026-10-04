@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Vaani",
+      "hasCanvas": false,
+      "bodyTextLen": 424,
+      "bodyTextHash": "0a36d6911d6c8f2483bf0acdb62c27ed8856f05a3da5aeb7c8883225d4ac37b5",
+      "bodyTextPrefix": "Vaani A quiet mind for any question. New chat CHATS Ask in Engli",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Vaani",
+      "hasCanvas": false,
+      "bodyTextLen": 336,
+      "bodyTextHash": "452427f56375486ab6e7c6dcc488539ed790d8a9ac8661e69ab447272cbdd2ac",
+      "bodyTextPrefix": "Vaani New chat What would you like to know? Ask in English or Hi",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
